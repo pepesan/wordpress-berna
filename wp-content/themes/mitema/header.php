@@ -13,5 +13,6 @@
 </head>
 <body>
 <div class="header">
+	<img alt="imagen de cabecera" src="<?php echo get_template_directory_uri(); ?>/images/cabecera.jpg" />
 <p>This is header section. Put your logo and other details here.</p>
 </div>
