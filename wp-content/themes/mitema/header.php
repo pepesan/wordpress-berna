@@ -9,6 +9,8 @@
 	<!--[if lt IE 9]>
 	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
 	<![endif]-->
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.12.0.js"></script>
+	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/example.js"></script>
 	<?php wp_head(); ?>
 </head>
 <body>

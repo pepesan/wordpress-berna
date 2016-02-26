@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" <?php language_attributes(); ?>
 <?php get_header(); ?>
 <div class="content">
 <?php if ( have_posts() ) : ?>
